@@ -181,7 +181,7 @@ int32_t main()
                 while (n2--)
                 {
                     cout << j + 1 << ss;
-                }
+                } // fsfas
                 n2 = n3;
             }
         }
