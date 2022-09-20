@@ -1,0 +1,1 @@
+{"name":"Local: rec_rev","url":"c:\\Users\\imhabib\\Documents\\VSCODE\\rec_rev.cpp","tests":[{"id":1658592385787,"input":"5\n69 87 45 21 47","output":"47 21 45 87 69"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\imhabib\\Documents\\VSCODE\\rec_rev.cpp","group":"local","local":true}

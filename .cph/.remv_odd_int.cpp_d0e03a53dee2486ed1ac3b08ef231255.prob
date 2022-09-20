@@ -1,0 +1,1 @@
+{"name":"Local: remv_odd_int","url":"c:\\Users\\imhabib\\Documents\\VSCODE\\remv_odd_int.cpp","tests":[{"id":1658594583919,"input":"6\n1 54 88 6 55 7","output":"54 88 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\imhabib\\Documents\\VSCODE\\remv_odd_int.cpp","group":"local","local":true}
